@@ -5,7 +5,7 @@
   <a href="https://rajatsinghania-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live_Website-blue?style=flat&logo=vercel" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/rajat-singhariya-58a9b0363" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:rajatsinghariya99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail" alt="Email" /></a>
-  <a href="https://x.com/RajatSingh33534" target="_blank"><img src="https://img.shields.io/badge/X-Follow-black?style=flat&logo=x" /></a>
+  <a href="https://x.com/RajatSingh33534" target="_blank"><img src="https://img.shields.io/badge/X-Follow-black?style=flat&logo=x" alt="X" /></a>
   <a href="https://github.com/rajat-singhariya"><img src="https://komarev.com/ghpvc/?username=rajat-singhariya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /></a>
 </p>
 
@@ -15,7 +15,7 @@
 - 🚀 Building scalable full-stack web applications, REST APIs, and robust backend architectures.
 - 🤖 Integrating real-world LLM capabilities (Claude & Gemini APIs) and geo-spatial features into web workflows.
 - ⚡ Focused on clean code, system design, and shipping production-ready software solutions.
-- 🎓 B.Tech CSE @ JIET Jodhpur (2023–2027) | Student Secretary, IEI Chapter
+- 🎓 B.Tech CSE @ JIET Jodhpur (2023–2027) | IEI Chapter
 - 💼 Ex-PHP Development Engineer Intern @ Lucid Outsourcing Solutions | Open to new internships & opportunities
 - 🔗 Interactive Portfolio: **[rajatsinghania-portfolio.vercel.app](https://rajatsinghania-portfolio.vercel.app/)**
 
@@ -58,12 +58,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajat-singhariya&theme=radical&no-bg=true" width="100%" />
+  <img src="profile/trophy.svg" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajat-singhariya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat-singhariya&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="profile/stats.svg" width="48%" />
+  <img src="profile/top-langs.svg" width="48%" />
 </p>
 
 ---
