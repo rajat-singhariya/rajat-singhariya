@@ -41,13 +41,19 @@
 | **EduInsight** | REST API, Node.js, Backend Architecture | Role-based school management backend with 15+ API endpoints and analytics summaries for student and class performances. | [Live Demo](https://eduinsight-taupe.vercel.app) / [GitHub](https://github.com/rajat-singhariya/eduInsight) |
 | **Vehicle For You** | PHP 8, MySQL, OOP, PDO, AJAX | Vehicle rental app featuring an OOP model layer, abstract vehicle base classes, factory pattern, public booking flow, and an admin panel. | [GitHub](https://github.com/rajat-singhariya/vehicle-for-you) |
 
+
 ---
 
-### 🏆 Achievements
+### 🐍 Contribution Snake Animation
 
-- Selected for **HackSecure X International**
-- Selected for **RECKON 4.0**
-- Student Secretary, **IEI Chapter** — JIET Jodhpur
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajat-singhariya/rajat-singhariya/output/github-contribution-grid-snake.svg">
+    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/rajat-singhariya/rajat-singhariya/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<p align="center"><i>Open to internships, freelance work, and collaborative opportunities. Feel free to reach out!</i></p>
 
 ---
 
@@ -65,18 +71,5 @@
   <img src="profile/stats.svg" width="48%" />
   <img src="profile/top-langs.svg" width="48%" />
 </p>
-
----
-
-### 🐍 Contribution Snake Animation
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajat-singhariya/rajat-singhariya/output/github-contribution-grid-snake.svg">
-    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/rajat-singhariya/rajat-singhariya/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-<p align="center"><i>Open to internships, freelance work, and collaborative opportunities. Feel free to reach out!</i></p>
 
 ---
