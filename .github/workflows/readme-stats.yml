@@ -23,6 +23,7 @@ jobs:
           card: stats
           options: "show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
           path: profile/stats.svg
+          token: ${{ secrets.PROFILE_TOKEN }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v1
@@ -30,6 +31,7 @@ jobs:
           card: top-langs
           options: "layout=compact&theme=tokyonight&hide_border=true"
           path: profile/top-langs.svg
+          token: ${{ secrets.PROFILE_TOKEN }}
 
       - name: Commit and push SVGs
         run: |
