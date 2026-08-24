@@ -25,7 +25,7 @@ jobs:
         with:
           username: rajat-singhariya
           file: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_TOKEN }}
 
       - name: Commit and push SVG
         run: |
