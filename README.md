@@ -45,7 +45,7 @@
 
 - Selected for **HackSecure X International**
 - Selected for **RECKON 4.0**
--  **IEI Chapter** — JIET Jodhpur
+- Student Secretary of **IEI Chapter** — JIET Jodhpur
 
 ---
 
@@ -61,14 +61,6 @@
 ---
 
 ### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajat-singhariya&theme=tokyonight&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="profile/top-langs.svg" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rajat-singhariya/rajat-singhariya/output/commit-invaders.svg" width="100%" />
