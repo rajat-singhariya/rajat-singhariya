@@ -59,9 +59,8 @@
   </picture>
 </p>
 
-<hr style="border: none; height: 1px; background-color: #30363d; margin: 24px 0;">
+<hr style="border: none; height: 0.5px; background-color: #30363d; margin: 24px 0;">
 
-<h3 align="center">👀 Profile Views</h3>
 
 <p align="center">
   <img src="https://count.getloli.com/get/@rajat-singhariya?theme=rule34" alt="visitor count" />
