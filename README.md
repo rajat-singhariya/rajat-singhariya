@@ -9,7 +9,7 @@
   <a href="https://github.com/rajat-singhariya"><img src="https://komarev.com/ghpvc/?username=rajat-singhariya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /></a>
 </p>
 
-<hr style="border: none; height: 1px; background-color: #30363d; margin: 24px 0;">
+<img width="100%" height="2" src="https://raw.githubusercontent.com/rushatgabhane/rushatgabhane/master/img/dash.png">
 
 <h3 align="center">💻 Core Focus & Engineering</h3>
 
@@ -20,7 +20,7 @@
 - 💼 Ex-PHP Development Engineer Intern @ Lucid Outsourcing Solutions | Open to new internships & opportunities
 - 🔗 Interactive Portfolio: **[rajatsinghania-portfolio.vercel.app](https://rajatsinghania-portfolio.vercel.app/)**
 
-<hr style="border: none; height: 1px; background-color: #30363d; margin: 24px 0;">
+<img width="100%" height="2" src="https://raw.githubusercontent.com/rushatgabhane/rushatgabhane/master/img/dash.png">
 
 <h3 align="center">🛠️ Tech Stack & Ecosystem</h3>
 
@@ -30,7 +30,7 @@
 - **Databases:** <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" height="18" align="center" /> MySQL, MongoDB, PostgreSQL, PDO
 - **Tools & DevOps:** <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" height="18" align="center" /> Git, GitHub, Docker, Cursor, VS Code, Postman
 
-<hr style="border: none; height: 1px; background-color: #30363d; margin: 24px 0;">
+<img width="100%" height="2" src="https://raw.githubusercontent.com/rushatgabhane/rushatgabhane/master/img/dash.png">
 
 <h3 align="center">🚀 What I've Built</h3>
 
@@ -40,7 +40,7 @@
 - 🎓 **[EduInsight](https://eduinsight-taupe.vercel.app)** — School management backend with 15+ REST API endpoints and student/class performance analytics. → [GitHub](https://github.com/rajat-singhariya/eduInsight)
 - 🚗 **Vehicle For You** — OOP-based vehicle rental system with factory pattern, public booking flow, and admin panel. → [GitHub](https://github.com/rajat-singhariya/vehicle-for-you)
 
-<hr style="border: none; height: 1px; background-color: #30363d; margin: 24px 0;">
+<img width="100%" height="2" src="https://raw.githubusercontent.com/rushatgabhane/rushatgabhane/master/img/dash.png">
 
 <h3 align="center">🏆 Achievements</h3>
 
@@ -48,7 +48,7 @@
 - Selected for **RECKON 4.0**
 - Student Secretary of **IEI Chapter** — JIET Jodhpur
 
-<hr style="border: none; height: 1px; background-color: #30363d; margin: 24px 0;">
+<img width="100%" height="2" src="https://raw.githubusercontent.com/rushatgabhane/rushatgabhane/master/img/dash.png">
 
 <h3 align="center">🐍 Contribution Snake Animation</h3>
 
@@ -59,8 +59,9 @@
   </picture>
 </p>
 
-<hr style="border: none; height: 0.5px; background-color: #30363d; margin: 24px 0;">
+<img width="100%" height="2" src="https://raw.githubusercontent.com/rushatgabhane/rushatgabhane/master/img/dash.png">
 
+<h3 align="center">👀 Profile Views</h3>
 
 <p align="center">
   <img src="https://count.getloli.com/get/@rajat-singhariya?theme=rule34" alt="visitor count" />
@@ -68,4 +69,4 @@
 
 <p align="center"><i>Open to internships, freelance work, and collaborative opportunities. Feel free to reach out!</i></p>
 
-<hr style="border: none; height: 1px; background-color: #30363d; margin: 24px 0;">
+<img width="100%" height="2" src="https://raw.githubusercontent.com/rushatgabhane/rushatgabhane/master/img/dash.png">
