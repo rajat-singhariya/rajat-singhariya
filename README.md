@@ -15,7 +15,7 @@
 - 🚀 Building scalable full-stack web applications, REST APIs, and robust backend architectures.
 - 🤖 Integrating real-world LLM capabilities (Claude & Gemini APIs) and geo-spatial features into web workflows.
 - ⚡ Focused on clean code, system design, and shipping production-ready software solutions.
-- 🎓 B.Tech CSE @ JIET Jodhpur (2023–2027) | IEI Chapter
+- 🎓 B.Tech CSE @ JIET Jodhpur (2023–2027) | Student Secretary, IEI Chapter
 - 💼 Ex-PHP Development Engineer Intern @ Lucid Outsourcing Solutions | Open to new internships & opportunities
 - 🔗 Interactive Portfolio: **[rajatsinghania-portfolio.vercel.app](https://rajatsinghania-portfolio.vercel.app/)**
 
@@ -31,16 +31,21 @@
 
 ---
 
-### 🚀 Flagship Projects
+### 🚀 What I've Built
 
-| Project Name | Tech Stack | Description | Live / Source |
-| :--- | :--- | :--- | :--- |
-| **Ordo** | Full-Stack, Laravel, AI Integration, Geo-Spatial | Task management platform combining AI-assisted task creation (Gemini API), geo-spatial features (Leaflet.js), and role-based access control. | [Live Demo](https://ordo-production-8254.up.railway.app) / [GitHub](https://github.com/Rajatsinghariya654/ordo) |
-| **LexBot** | Node.js, Express, MongoDB, Claude & Gemini APIs | AI legal Q&A chatbot for real-time chat with persistent session history across REST endpoints, used by 100+ users. | [Live Demo](https://lexbot-hj2h.onrender.com/) / [GitHub](https://github.com/rajat-singhariya/LexBot) |
-| **Grocery Finance System** | Full-Stack, AI Analytics, MySQL, RBAC | Role-based order management system featuring an AI-driven demand prediction and anomaly detection dashboard. | [Live Demo](https://grocery-finance-system.onrender.com) / [GitHub](https://github.com/rajat-singhariya/grocery-finance-system) |
-| **EduInsight** | REST API, Node.js, Backend Architecture | Role-based school management backend with 15+ API endpoints and analytics summaries for student and class performances. | [Live Demo](https://eduinsight-taupe.vercel.app) / [GitHub](https://github.com/rajat-singhariya/eduInsight) |
-| **Vehicle For You** | PHP 8, MySQL, OOP, PDO, AJAX | Vehicle rental app featuring an OOP model layer, abstract vehicle base classes, factory pattern, public booking flow, and an admin panel. | [GitHub](https://github.com/rajat-singhariya/vehicle-for-you) |
+- 🗂️ **[Ordo](https://ordo-production-8254.up.railway.app)** — Full-stack task management platform with AI-assisted task creation (Gemini API), geo-spatial routing (Leaflet.js), and role-based access control. Built with Laravel 12. → [GitHub](https://github.com/Rajatsinghariya654/ordo)
+- ⚖️ **[LexBot](https://lexbot-hj2h.onrender.com/)** — AI legal Q&A chatbot with persistent session history, powered by Claude & Gemini APIs. Serving **100+ real users**. → [GitHub](https://github.com/rajat-singhariya/LexBot)
+- 🛒 **[Grocery Finance System](https://grocery-finance-system.onrender.com)** — Role-based order management system with AI-driven demand prediction and anomaly detection. → [GitHub](https://github.com/rajat-singhariya/grocery-finance-system)
+- 🎓 **[EduInsight](https://eduinsight-taupe.vercel.app)** — School management backend with 15+ REST API endpoints and student/class performance analytics. → [GitHub](https://github.com/rajat-singhariya/eduInsight)
+- 🚗 **Vehicle For You** — OOP-based vehicle rental system with factory pattern, public booking flow, and admin panel. → [GitHub](https://github.com/rajat-singhariya/vehicle-for-you)
 
+---
+
+### 🏆 Achievements
+
+- Selected for **HackSecure X International**
+- Selected for **RECKON 4.0**
+- Student Secretary, **IEI Chapter** — JIET Jodhpur
 
 ---
 
@@ -53,23 +58,23 @@
   </picture>
 </p>
 
-<p align="center"><i>Open to internships, freelance work, and collaborative opportunities. Feel free to reach out!</i></p>
-
 ---
 
-### 📈 GitHub Metrics & Trophies
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajat-singhariya&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="profile/trophy.svg" width="100%" />
+  <img src="profile/stats.svg" width="49%" />
+  <img src="profile/top-langs.svg" width="49%" />
 </p>
 
 <p align="center">
-  <img src="profile/stats.svg" width="48%" />
-  <img src="profile/top-langs.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/rajat-singhariya/rajat-singhariya/output/commit-invaders.svg" width="100%" />
 </p>
+
+<p align="center"><i>Open to internships, freelance work, and collaborative opportunities. Feel free to reach out!</i></p>
 
 ---
