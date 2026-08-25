@@ -60,12 +60,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajat-singhariya/rajat-singhariya/output/commit-invaders.svg" width="100%" />
+  <img src="https://count.getloli.com/get/@rajat-singhariya?theme=moebooru" alt="visitor count" />
 </p>
-
-<p align="center"><i>Open to internships, freelance work, and collaborative opportunities. Feel free to reach out!</i></p>
-
----
