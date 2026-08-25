@@ -52,8 +52,8 @@
   </picture>
 </p>
 
+
+
 <p align="center">
   <img src="https://count.getloli.com/get/@rajat-singhariya?theme=rule34" alt="visitor count" />
 </p>
-
-<p align="center"><i>Open to internships, freelance work, and collaborative opportunities. Feel free to reach out!</i></p>
