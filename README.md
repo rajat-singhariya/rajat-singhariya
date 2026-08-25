@@ -15,7 +15,7 @@
 - 🚀 Building scalable full-stack web applications, REST APIs, and robust backend architectures.
 - 🤖 Integrating real-world LLM capabilities (Claude & Gemini APIs) and geo-spatial features into web workflows.
 - ⚡ Focused on clean code, system design, and shipping production-ready software solutions.
-- 🎓 B.Tech CSE @ JIET Jodhpur (2023–2027) | Student Secretary, IEI Chapter
+- 🎓 B.Tech CSE @ JIET Jodhpur (2023–2027) |  IEI Chapter
 - 💼 Ex-PHP Development Engineer Intern @ Lucid Outsourcing Solutions | Open to new internships & opportunities
 - 🔗 Interactive Portfolio: **[rajatsinghania-portfolio.vercel.app](https://rajatsinghania-portfolio.vercel.app/)**
 
@@ -45,7 +45,7 @@
 
 - Selected for **HackSecure X International**
 - Selected for **RECKON 4.0**
-- Student Secretary, **IEI Chapter** — JIET Jodhpur
+-  **IEI Chapter** — JIET Jodhpur
 
 ---
 
