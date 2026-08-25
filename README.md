@@ -9,19 +9,20 @@
   <a href="https://github.com/rajat-singhariya"><img src="https://komarev.com/ghpvc/?username=rajat-singhariya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /></a>
 </p>
 
----
+<hr style="border: none; height: 1px; background-color: #30363d; margin: 24px 0;">
 
-### 💻 Core Focus & Engineering
+<h3 align="center">💻 Core Focus & Engineering</h3>
+
 - 🚀 Building scalable full-stack web applications, REST APIs, and robust backend architectures.
 - 🤖 Integrating real-world LLM capabilities (Claude & Gemini APIs) and geo-spatial features into web workflows.
 - ⚡ Focused on clean code, system design, and shipping production-ready software solutions.
-- 🎓 B.Tech CSE @ JIET Jodhpur (2023–2027) |  IEI Chapter
+- 🎓 B.Tech CSE @ JIET Jodhpur (2023–2027) | IEI Chapter
 - 💼 Ex-PHP Development Engineer Intern @ Lucid Outsourcing Solutions | Open to new internships & opportunities
 - 🔗 Interactive Portfolio: **[rajatsinghania-portfolio.vercel.app](https://rajatsinghania-portfolio.vercel.app/)**
 
----
+<hr style="border: none; height: 1px; background-color: #30363d; margin: 24px 0;">
 
-### 🛠️ Tech Stack & Ecosystem
+<h3 align="center">🛠️ Tech Stack & Ecosystem</h3>
 
 - **Languages:** <img src="https://skillicons.dev/icons?i=js,python" height="18" align="center" /> JavaScript (ES6), Python
 - **Frontend:** <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css" height="18" align="center" /> React.js, Tailwind CSS, Bootstrap, HTML5, CSS3, jQuery
@@ -29,9 +30,9 @@
 - **Databases:** <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" height="18" align="center" /> MySQL, MongoDB, PostgreSQL, PDO
 - **Tools & DevOps:** <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" height="18" align="center" /> Git, GitHub, Docker, Cursor, VS Code, Postman
 
----
+<hr style="border: none; height: 1px; background-color: #30363d; margin: 24px 0;">
 
-### 🚀 What I've Built
+<h3 align="center">🚀 What I've Built</h3>
 
 - 🗂️ **[Ordo](https://ordo-production-8254.up.railway.app)** — Full-stack task management platform with AI-assisted task creation (Gemini API), geo-spatial routing (Leaflet.js), and role-based access control. Built with Laravel 12. → [GitHub](https://github.com/Rajatsinghariya654/ordo)
 - ⚖️ **[LexBot](https://lexbot-hj2h.onrender.com/)** — AI legal Q&A chatbot with persistent session history, powered by Claude & Gemini APIs. Serving **100+ real users**. → [GitHub](https://github.com/rajat-singhariya/LexBot)
@@ -39,17 +40,17 @@
 - 🎓 **[EduInsight](https://eduinsight-taupe.vercel.app)** — School management backend with 15+ REST API endpoints and student/class performance analytics. → [GitHub](https://github.com/rajat-singhariya/eduInsight)
 - 🚗 **Vehicle For You** — OOP-based vehicle rental system with factory pattern, public booking flow, and admin panel. → [GitHub](https://github.com/rajat-singhariya/vehicle-for-you)
 
----
+<hr style="border: none; height: 1px; background-color: #30363d; margin: 24px 0;">
 
-### 🏆 Achievements
+<h3 align="center">🏆 Achievements</h3>
 
 - Selected for **HackSecure X International**
 - Selected for **RECKON 4.0**
 - Student Secretary of **IEI Chapter** — JIET Jodhpur
 
----
+<hr style="border: none; height: 1px; background-color: #30363d; margin: 24px 0;">
 
-### 🐍 Contribution Snake Animation
+<h3 align="center">🐍 Contribution Snake Animation</h3>
 
 <p align="center">
   <picture>
@@ -58,8 +59,14 @@
   </picture>
 </p>
 
----
+<hr style="border: none; height: 1px; background-color: #30363d; margin: 24px 0;">
+
+<h3 align="center">👀 Profile Views</h3>
 
 <p align="center">
   <img src="https://count.getloli.com/get/@rajat-singhariya?theme=rule34" alt="visitor count" />
 </p>
+
+<p align="center"><i>Open to internships, freelance work, and collaborative opportunities. Feel free to reach out!</i></p>
+
+<hr style="border: none; height: 1px; background-color: #30363d; margin: 24px 0;">
