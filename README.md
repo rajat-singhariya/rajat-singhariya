@@ -125,22 +125,6 @@ const rajat = {
   🚗 <b>Vehicle For You</b> — OOP-based vehicle rental system with factory pattern, public booking flow and admin panel · <a href="https://github.com/rajat-singhariya/vehicle-for-you">Code</a>
 </p>
 
-<!-- ═══════════════ STATS ═══════════════ -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rajat-singhariya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat-singhariya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rajat-singhariya&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajat-singhariya&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="activity graph" />
-</p>
-
 <!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
 <h2 align="center">🏆 Achievements</h2>
 
@@ -150,13 +134,7 @@ const rajat = {
   <img src="https://img.shields.io/badge/IEI_Chapter-Student_Secretary-0A66C2?style=for-the-badge" alt="IEI" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajat-singhariya&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
-</p>
-
 <!-- ═══════════════ SNAKE ═══════════════ -->
-<h2 align="center">🐍 Contribution Snake</h2>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajat-singhariya/rajat-singhariya/output/github-contribution-grid-snake-dark.svg">
@@ -167,6 +145,10 @@ const rajat = {
 <!-- ═══════════════ FOOTER ═══════════════ -->
 <p align="center">
   <i>"First, solve the problem. Then, write the code."</i>
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@rajat-singhariya?theme=moebooru" alt="visitor count" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
