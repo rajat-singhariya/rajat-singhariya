@@ -1,5 +1,5 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Rajat%20Singhariya&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20PHP%20%C2%B7%20Node.js%20%C2%B7%20Laravel%20%C2%B7%20AI%20Integrations&descSize=18&descAlignY=58" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b497d6,50:1e6091,100:0a0a0f&height=230&section=header&text=Rajat%20Singhariya&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20PHP%20%C2%B7%20Node.js%20%C2%B7%20Laravel%20%C2%B7%20AI%20Integrations&descSize=18&descAlignY=58" alt="header" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -151,4 +151,4 @@ const rajat = {
   <img src="https://count.getloli.com/get/@rajat-singhariya?theme=moebooru" alt="visitor count" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b497d6,50:1e6091,100:0a0a0f&height=120&section=footer" alt="footer" />
