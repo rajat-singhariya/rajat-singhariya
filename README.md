@@ -95,34 +95,26 @@ const rajat = {
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Rajatsinghariya654/ordo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajatsinghariya654&repo=ordo&bg_color=0a0a0f&title_color=b497d6&text_color=c9d1d9&icon_color=1e6091&border_color=1e6091" alt="Ordo" />
-      </a>
+      <a href="https://github.com/rajat-singhariya/ordo"><img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:b497d6,50:1e6091,100:0a0a0f&height=90&text=Ordo&fontSize=26&fontColor=ffffff&fontAlignY=50" alt="Ordo" /></a>
       <br/><sub>AI-assisted tasks · geo-spatial routing · RBAC · Laravel 12</sub>
-      <br/><a href="https://ordo-production-8254.up.railway.app">Live Demo</a> · <a href="https://github.com/Rajatsinghariya654/ordo">Code</a>
+      <br/><a href="https://ordo-production-8254.up.railway.app">Live Demo</a> · <a href="https://github.com/rajat-singhariya/ordo">Code</a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/rajat-singhariya/LexBot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajat-singhariya&repo=LexBot&bg_color=0a0a0f&title_color=b497d6&text_color=c9d1d9&icon_color=1e6091&border_color=1e6091" alt="LexBot" />
-      </a>
+      <a href="https://github.com/rajat-singhariya/LexBot"><img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:b497d6,50:1e6091,100:0a0a0f&height=90&text=LexBot&fontSize=26&fontColor=ffffff&fontAlignY=50" alt="LexBot" /></a>
       <br/><sub>Claude & Gemini legal Q&A · session history · 100+ real users</sub>
       <br/><a href="https://lexbot-hj2h.onrender.com/">Live Demo</a> · <a href="https://github.com/rajat-singhariya/LexBot">Code</a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/rajat-singhariya/grocery-finance-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajat-singhariya&repo=grocery-finance-system&bg_color=0a0a0f&title_color=b497d6&text_color=c9d1d9&icon_color=1e6091&border_color=1e6091" alt="Grocery Finance System" />
-      </a>
+      <a href="https://github.com/rajat-singhariya/grocery-finance-system"><img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:b497d6,50:1e6091,100:0a0a0f&height=90&text=Grocery%20Finance%20System&fontSize=26&fontColor=ffffff&fontAlignY=50" alt="Grocery Finance System" /></a>
       <br/><sub>Role-based orders · AI demand prediction · anomaly detection</sub>
       <br/><a href="https://grocery-finance-system.onrender.com">Live Demo</a> · <a href="https://github.com/rajat-singhariya/grocery-finance-system">Code</a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/rajat-singhariya/eduInsight">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajat-singhariya&repo=eduInsight&bg_color=0a0a0f&title_color=b497d6&text_color=c9d1d9&icon_color=1e6091&border_color=1e6091" alt="EduInsight" />
-      </a>
+      <a href="https://github.com/rajat-singhariya/eduinsight"><img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:b497d6,50:1e6091,100:0a0a0f&height=90&text=EduInsight&fontSize=26&fontColor=ffffff&fontAlignY=50" alt="EduInsight" /></a>
       <br/><sub>15+ REST endpoints · student & class analytics</sub>
-      <br/><a href="https://eduinsight-taupe.vercel.app">Live Demo</a> · <a href="https://github.com/rajat-singhariya/eduInsight">Code</a>
+      <br/><a href="https://eduinsight-taupe.vercel.app">Live Demo</a> · <a href="https://github.com/rajat-singhariya/eduinsight">Code</a>
     </td>
   </tr>
 </table>
